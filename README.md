@@ -1,8 +1,6 @@
 # The Noise-Optimal Depth Frontier
 
-Code and data for the paper **"The Noise-Optimal Depth Frontier: Joint Encoding-Depth Selection for Variational Quantum Classifiers under Hardware Noise"**, submitted to the 4th International Workshop on Quantum Machine Learning: From Research to Practice (WKS51), IEEE Quantum Week 2026 (QCE26), Toronto, Canada.
-
-Author: Harmandeep Kaur, University of Connecticut.
+Code and data for the paper **"The Noise-Optimal Depth Frontier: Joint Encoding-Depth Selection for Variational Quantum Classifiers under Hardware Noise"**, presented at the 4th International Workshop on Quantum Machine Learning: From Research to Practice (WKS51), IEEE Quantum Week 2026 (QCE26), Toronto, Canada.
 
 ## What this repository contains
 
@@ -33,9 +31,9 @@ python analyze.py                    # figures and selection rule from results/r
 
 ## Citation
 
-If you use this code or data, please cite the paper (bibliographic details will be updated after the review process):
+If you use this code or data, please cite the paper:
 H. Kaur, "The Noise-Optimal Depth Frontier: Joint Encoding-Depth Selection for
-Variational Quantum Classifiers under Hardware Noise," submitted to the 4th Int.
+Variational Quantum Classifiers under Hardware Noise," in Proc. 4th Int.
 Workshop on Quantum Machine Learning: From Research to Practice, IEEE Quantum
 Week (QCE26), 2026.
 
